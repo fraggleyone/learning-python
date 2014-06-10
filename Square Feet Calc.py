@@ -1,0 +1,1 @@
+print "Square feet of my room", 6 * 2
